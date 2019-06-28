@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/two_col"
+        android:orderInCategory="100"
+        android:title="Two Columns"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/three_col"
+        android:orderInCategory="100"
+        android:title="Three Columns"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/four_col"
+        android:orderInCategory="100"
+        android:title="Four Columns"
+        app:showAsAction="never" />
+
+</menu>
